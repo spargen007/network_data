@@ -2,12 +2,12 @@
     {
         "id": "1",
         "name": "Zoho",
-        "state": "Guduvancheri"
+        "district": "Guduvancheri"
     },
     {
         "id": "2",
-        "name": "Delhi",
-        "state": "Delhi"
+        "name": "Zoho-northplaza",
+        "state": "chennai"
     },
     {
         "id": "3",
